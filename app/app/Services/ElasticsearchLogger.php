@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use Elasticsearch\ClientBuilder;
+use Elastic\Elasticsearch\ClientBuilder;
 
 class ElasticsearchLogger
 {
